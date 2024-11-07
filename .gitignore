@@ -94,4 +94,5 @@ pnpm-lock.yaml
 !/src/core/server/modules/*
 !/src/core/client/modules/*
 .env
+./modules
 !resources/webviews-menu

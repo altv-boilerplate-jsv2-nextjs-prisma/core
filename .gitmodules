@@ -1,11 +1,3 @@
-[submodule "srv-webviews"]
-	path = srv-webviews
-	url = https://github.com/altv-boilerplate-jsv2-nextjs-prisma/webview.git
-	branch = main
-[submodule "pirsma"]
-	path = pirsma
-	url = https://github.com/altv-boilerplate-jsv2-nextjs-prisma/prisma.git
-	branch = main
 [submodule "src-webviews"]
 	path = src-webviews
 	url = https://github.com/altv-boilerplate-jsv2-nextjs-prisma/webview.git

@@ -4,7 +4,7 @@
 Special thanks to [Styuk](https://github.com/stuyk) and [MyHwu9508](https://github.com/MyHwu9508) for the compiler scripts.
 
 ### Important Note:
-- If you're running the webview outside of the AltV server directory, ensure that you **pull the Prisma folder** first to avoid missing dependencies.
+- If you're running the webview outside of the alt:V server directory, ensure that you **pull the Prisma folder** first to avoid missing dependencies.
 
 ---
 

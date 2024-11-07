@@ -1,0 +1,7 @@
+{
+  "loadJSModule": false,
+  "loadBytecodeModule": true,
+  "loadCSharpModule": false,
+  "loadJSV2Module": true,
+  "loadVoiceServer": true
+}
